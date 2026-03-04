@@ -1,23 +1,23 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/JahidGittu/Git-Multiverse/releases/download/v1.0.0/gitmultiverse_1.0.0_windows_amd64.zip",
+            "url": "https://github.com/JahidGittu/Git-Multiverse/releases/download/v1.0.1/gitmultiverse_1.0.1_windows_amd64.zip",
             "bin": [
                 "gitm.exe",
                 "gitmultiverse-server.exe",
                 "git-interceptor.exe"
             ],
-            "hash": "3a7df5780c9d91d96e9b5eae9e19dae2fa8b1219f8e581d67ce2a664c758d239"
+            "hash": "3e1cdab22e1b062e017cc4269c624e841318b2ee9c054dddb62380912b57428a"
         },
         "arm64": {
-            "url": "https://github.com/JahidGittu/Git-Multiverse/releases/download/v1.0.0/gitmultiverse_1.0.0_windows_arm64.zip",
+            "url": "https://github.com/JahidGittu/Git-Multiverse/releases/download/v1.0.1/gitmultiverse_1.0.1_windows_arm64.zip",
             "bin": [
                 "gitm.exe",
                 "gitmultiverse-server.exe",
                 "git-interceptor.exe"
             ],
-            "hash": "f7c1344eab6ac512555a650fcb75f5fb72d9cc894f1dd8962d5dc916f7a245ac"
+            "hash": "188ee0348c735c60d29d661f3c49b7213468760d4b5aba2b8a0a06e511060880"
         }
     },
     "homepage": "https://github.com/JahidGittu/Git-Multiverse",
