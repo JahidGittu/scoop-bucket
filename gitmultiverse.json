@@ -1,0 +1,26 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/JahidGittu/Git-Multiverse/releases/download/v1.0.0/gitmultiverse_1.0.0_windows_amd64.zip",
+            "bin": [
+                "gitm.exe",
+                "gitmultiverse-server.exe",
+                "git-interceptor.exe"
+            ],
+            "hash": "3a7df5780c9d91d96e9b5eae9e19dae2fa8b1219f8e581d67ce2a664c758d239"
+        },
+        "arm64": {
+            "url": "https://github.com/JahidGittu/Git-Multiverse/releases/download/v1.0.0/gitmultiverse_1.0.0_windows_arm64.zip",
+            "bin": [
+                "gitm.exe",
+                "gitmultiverse-server.exe",
+                "git-interceptor.exe"
+            ],
+            "hash": "f7c1344eab6ac512555a650fcb75f5fb72d9cc894f1dd8962d5dc916f7a245ac"
+        }
+    },
+    "homepage": "https://github.com/JahidGittu/Git-Multiverse",
+    "license": "MIT",
+    "description": "Multi-account Git identity manager CLI"
+}
